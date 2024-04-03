@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "filesystem": "^1.0.1",
+    "http": "^0.0.1-security",
+    "mongodb": "^6.4.0",
+    "nodemailer": "^6.9.11",
+    "nodemon": "^3.1.0",
+    "uppercase": "^2.0.0-beta.23"
+  }
+}
